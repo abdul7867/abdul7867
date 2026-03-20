@@ -268,25 +268,6 @@ const abdul = {
 <br/>
 <br/>
 
----
-
-<br/>
-
-## 🏆 &nbsp;GitHub Trophies
-
-<br/>
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=abdul7867&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<br/>
-<br/>
-
----
-
 <br/>
 
 ## 🐍 &nbsp;Contribution Snake
